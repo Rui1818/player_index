@@ -154,7 +154,6 @@ cython_debug/
 
 data/
 norm_stats/
-mean_std/
 ranking/
 gamesfromplayers/
 # PyCharm
